@@ -1,2 +1,2 @@
 # ATM-projesi
-## patika.dev
+## www.patika.dev
